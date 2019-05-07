@@ -1,0 +1,12 @@
+C:\Users\lenovo\eclipse-workspace\spring-boot-data-jpa\src\main\java\com\springboot\app\controllers\ClienteController.java
+C:\Users\lenovo\eclipse-workspace\spring-boot-data-jpa\src\main\java\com\springboot\app\models\service\ClienteServiceImpl.java
+C:\Users\lenovo\eclipse-workspace\spring-boot-data-jpa\src\main\java\com\springboot\app\controllers\FacturaController.java
+C:\Users\lenovo\eclipse-workspace\spring-boot-data-jpa\src\main\java\com\springboot\app\models\entity\ItemFactura.java
+C:\Users\lenovo\eclipse-workspace\spring-boot-data-jpa\src\main\java\com\springboot\app\MvcConfig.java
+C:\Users\lenovo\eclipse-workspace\spring-boot-data-jpa\src\main\java\com\springboot\app\models\entity\Factura.java
+C:\Users\lenovo\eclipse-workspace\spring-boot-data-jpa\src\main\java\com\springboot\app\models\dao\IProductoDao.java
+C:\Users\lenovo\eclipse-workspace\spring-boot-data-jpa\src\main\java\com\springboot\app\models\entity\Cliente.java
+C:\Users\lenovo\eclipse-workspace\spring-boot-data-jpa\src\main\java\com\springboot\app\SpringBootDataJpaApplication.java
+C:\Users\lenovo\eclipse-workspace\spring-boot-data-jpa\src\main\java\com\springboot\app\models\entity\Producto.java
+C:\Users\lenovo\eclipse-workspace\spring-boot-data-jpa\src\main\java\com\springboot\app\models\service\IClienteService.java
+C:\Users\lenovo\eclipse-workspace\spring-boot-data-jpa\src\main\java\com\springboot\app\models\dao\IClienteDao.java
